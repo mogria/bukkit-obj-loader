@@ -1,4 +1,4 @@
-bukkit-loadimg-plugin
+bukkit-obj-loader-plugin
 =====================
 
-this is an awesome bukkit plugin to load images (.png, .jpg) into your minecraft maps
+this is an awesome bukkit plugin to .obj files into your minecraft maps
