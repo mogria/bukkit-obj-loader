@@ -1,0 +1,9 @@
+name: ObjLoader
+main: org.cerealshit.ObjLoader.ObjLoader
+version: 0.1
+commands:
+   imageloader:
+      description: Loads an .obj file from disk into minecraft
+      usage: /<command>
+      permission: objloader.objloader
+      permission-message: You don't have <permission>
